@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+:root{
+  --cor-roxo-backgound:#D7D5FF;
+  ---cor-roxo-botão:#6C63FF;
+  ---cor-branca-primaira:#FFFFFF;
+  ---cor-letra-secudaria:#555555;
+  ---cor-letra-primaria:#2B2B2B;
+  
+  ---letra-titulo:'Lato', sans-serif;
+  --letra-subtitulos:'Merriweather', serif;
+
+}
